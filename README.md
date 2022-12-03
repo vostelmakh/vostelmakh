@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vladislav Stalmakh</h1>
 <h3 align="center">Backend Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vl4d1k" alt="vl4d1k" /></a> </p>
-
 - 🌱 I’m currently learning **Go and PhP**
 
 - 📫 How to reach me **vlad1k9369@gmail.com**

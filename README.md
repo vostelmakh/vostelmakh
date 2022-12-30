@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vladislav Stalmakh</h1>
 <h3 align="center">Backend Developer</h3>
 
-- 🌱 I’m currently learning **Go and PhP**
+- 🌱 I’m currently learning **Go and Php**
 
 - 📫 How to reach me **vlad1k9369@gmail.com**
 

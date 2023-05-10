@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vladislav Stalmakh</h1>
 <h3 align="center">Backend Developer</h3>
 
-[![Hits-of-Code](https://hitsofcode.com/github/torvalds/linux?branch=master)](https://hitsofcode.com/github/torvalds/linux/view?branch=master)
-
 - 🌱 I’m currently learning **Go and Php**
 
 - 📫 How to reach me **vlad1k9369@gmail.com**

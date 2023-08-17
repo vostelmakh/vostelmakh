@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Go**
 
-- 📫 How to reach me **vlad1k9369@gmail.com**
+- 📫 You could reach me **vlad1k9369@gmail.com**
 
 <p align="center">
 </p>

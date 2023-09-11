@@ -1,7 +1,5 @@
-<h1 align="center">Hi, I'm Vladislav Stalmakh</h1>
+<h1 align="center">Hi, I'm Vlad Stalmakh</h1>
 <h3 align="center">Backend Developer</h3>
-
-- 🌱 I’m currently learning **Go**
 
 - 📫 You could reach me **vlad1k9369@gmail.com**
 

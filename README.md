@@ -4,7 +4,7 @@
 - 📫 You could reach me **vlad1k9369@gmail.com**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vostelmakh&layout=compact&theme=dark&hide_border=true" alt="languages" height="177">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vostelmakh&theme=dark&hide_border=true" alt="languages" height="177">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
